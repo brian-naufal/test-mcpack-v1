@@ -261,6 +261,14 @@
     "curseForgeHash": 1915498492,
     "modrinthHash": "60d2ce7f9ce3f6e5da6a0bce0a84048fe3a0152e"
   },
+  "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar": {
+    "jarName": "c2me-neoforge-mc1.21.1-0.3.0+alpha.0.90.jar",
+    "modId": "c2me",
+    "name": "Concurrent Chunk Management Engine",
+    "version": "0.3.0+alpha.0.90+1.21.1",
+    "curseForgeHash": 1337065593,
+    "modrinthHash": "7837dd615c054675d88e034be04ffa1cec114265"
+  },
   "Chunky-NeoForge-1.4.23.jar": {
     "jarName": "Chunky-NeoForge-1.4.23.jar",
     "modId": "chunky",
@@ -420,14 +428,6 @@
     "curseForgeHash": 250368856,
     "modrinthHash": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e"
   },
-  "dynamiclights-v1.9.2-mc1.17-26.1.1-mod.jar": {
-    "jarName": "dynamiclights-v1.9.2-mc1.17-26.1.1-mod.jar",
-    "modId": "dynamiclights",
-    "name": "Dynamic Lights",
-    "version": "1.9.2+mod",
-    "curseForgeHash": 4272844893,
-    "modrinthHash": "5a93379aea413209731701f7c2ee2c4961766479"
-  },
   "e4mc-neoforge-6.0.6.jar": {
     "jarName": "e4mc-neoforge-6.0.6.jar",
     "modId": "e4mc",
@@ -507,14 +507,6 @@
     "version": "7.1",
     "curseForgeHash": 1249730238,
     "modrinthHash": "56de40b237ff44dbf1bb68844e0f118607902684"
-  },
-  "entityculling-neoforge-1.10.1-mc1.21.1.jar": {
-    "jarName": "entityculling-neoforge-1.10.1-mc1.21.1.jar",
-    "modId": "entityculling",
-    "name": "EntityCulling",
-    "version": "1.10.1",
-    "curseForgeHash": 3605367435,
-    "modrinthHash": "68759da313caf8990bcd5d961bc691fa85fa3f0e"
   },
   "Explorify v1.6.4 f15-88.mod.jar": {
     "jarName": "Explorify v1.6.4 f15-88.mod.jar",
