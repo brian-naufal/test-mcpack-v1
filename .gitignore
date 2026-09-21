@@ -1,16 +1,11 @@
-# Ignore Minecraft game data
 /saves/
 /logs/
 /screenshots/
 /resourcepacks/
 /shaderpacks/
-
-# Ignore NeoForge/Gradle build files (The "Heavy" stuff)
 .gradle/
 build/
 bin/
 run/
-
-# Ignore OS junk
 .DS_Store
 Thumbs.db
